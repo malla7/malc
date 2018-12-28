@@ -44,11 +44,11 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6028.ts
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6027.ts
 #EXTINF:-1,UK: Boxnation
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6063.ts
-#EXTINF:-1,UK: BT SPORT 1
+#EXTINF:-1,"group-title="SPORT", BT SPORT 1
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5915.ts
-#EXTINF:-1,UK: BT SPORT 2
+#EXTINF:-1"group-title="SPORT", BT SPORT 2
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5914.ts
-#EXTINF:-1,UK: BT SPORT 3
+#EXTINF:-1"group-title="SPORT", BT SPORT 3
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5913.ts
 #EXTINF:-1,UK: BT Sport Extra 1
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6058.ts
