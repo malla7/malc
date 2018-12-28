@@ -164,7 +164,7 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6016.ts
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5879.ts
 #EXTINF:-1,UK: Fox News
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5962.ts
-#EXTINF:-1,UK: GOLD
+#EXTINF:-1, GOLD
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5934.ts
 #EXTINF:-1,UK: H2
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6015.ts
