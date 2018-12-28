@@ -22,15 +22,15 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5966.ts
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5980.ts
 #EXTINF:-1,UK: Baby TV
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6059.ts
-#EXTINF:-1, BBC 1"group-title="ENTERTAINMENT"
+#EXTINF:-1,"group-title="ENTERTAINMENT", BBC 1
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5975.ts
-#EXTINF:-1, BBC 1 HD"group-title="ENTERTAINMENT"
+#EXTINF:-1,"group-title="ENTERTAINMENT", BBC 1 HD
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5979.ts
-#EXTINF:-1,UK: BBC 2"group-title="ENTERTAINMENT"
+#EXTINF:-1,UK:"group-title="ENTERTAINMENT", BBC 2
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5968.ts
-#EXTINF:-1, BBC 3"group-title="ENTERTAINMENT"
+#EXTINF:-1,"group-title="ENTERTAINMENT", BBC 3
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5974.ts
-#EXTINF:-1, BBC 4"group-title="ENTERTAINMENT"
+#EXTINF:-1, BBC 4
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5969.ts
 #EXTINF:-1, BBC News
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5972.ts
