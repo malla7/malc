@@ -86,9 +86,9 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6062.ts
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5965.ts
 #EXTINF:-1,UK: CBS Reality
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5947.ts
-#EXTINF:-1,UK: Challenge
+#EXTINF:-1, Challenge
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5964.ts
-#EXTINF:-1,UK: Channel 4
+#EXTINF:-1, Channel 4
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6061.ts
 #EXTINF:-1,UK: Channel 5
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5899.ts
@@ -96,7 +96,7 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5899.ts
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6024.ts
 #EXTINF:-1,UK: Chart Show TV
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6023.ts
-#EXTINF:-1,UK: CHELSEA TV
+#EXTINF:-1, CHELSEA TV
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5885.ts
 #EXTINF:-1,UK: CNBC
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5948.ts
@@ -144,7 +144,7 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5923.ts
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6049.ts
 #EXTINF:-1,UK: eir Sport 2
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6082.ts
-#EXTINF:-1,UK: Eurosport 1
+#EXTINF:-1, Eurosport 1
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6073.ts
 #EXTINF:-1,UK: Eurosport 1 HD
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6033.ts
