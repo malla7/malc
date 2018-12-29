@@ -182,7 +182,7 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6012.ts
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5884.ts
 #EXTINF:-1,UK: Irish TV
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5880.ts
-#EXTINF:-1,UK: ITV 1
+#EXTINF:-1, ITV 
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6081.ts
 #EXTINF:-1,UK: ITV 2
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6080.ts
